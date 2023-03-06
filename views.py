@@ -13,8 +13,9 @@ import numpy as np
 
 url = "https://covid-193.p.rapidapi.com/statistics"
 
+# Sua chave da API aqui.
 headers = {
-    "X-RapidAPI-Key": "00aa3ab371mshdfb24bfe87f664ap187c90jsneb2c48b4e6cf",
+    "X-RapidAPI-Key": "",
     "X-RapidAPI-Host": "covid-193.p.rapidapi.com"
 }
 
